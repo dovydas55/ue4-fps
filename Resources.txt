@@ -1,2 +1,33 @@
-Tank Model:
-http://tf3dm.com/download-page.php?url=russian-t-90-tank-32782
+YOUTUBE TUTORIALS
+
+UE4 Geometry tutorial:
+	https://www.youtube.com/watch?v=M8TxIWJop14
+
+Zoom tutorial:
+	https://www.youtube.com/watch?v=U88LWbVv9BY
+
+=============================================
+
+MODELS
+
+Tank:
+	http://tf3dm.com/download-page.php?url=russian-t-90-tank-32782
+
+=============================================
+
+TEXTURES
+
+Containers:
+1) https://www.google.is/search?q=container+texture&espv=2&biw=1920&bih=955&tbm=isch&imgil=VfjMgTHc4PRJUM%253A%253BF2XO03Tt2D50ZM%253Bhttp%25253A%25252F%25252Ftextures.lovelystock.com%25252Ftexture%25252Fcontainer%25252F&source=iu&pf=m&fir=VfjMgTHc4PRJUM%253A%252CF2XO03Tt2D50ZM%252C_&usg=__n0wwSnNp8Z90_N_XrWcxHA7s-ZE%3D&ved=0CCUQyjc&ei=yHHVVN2kPI3mas_QgtAO#imgdii=_&imgrc=VfjMgTHc4PRJUM%253A%3BF2XO03Tt2D50ZM%3Bhttp%253A%252F%252Ftextures.lovelystock.com%252Fwp-content%252Fuploads%252Fsites%252F2%252F2013%252F10%252FContainer_001_www.lovelystock.com_.jpg%3Bhttp%253A%252F%252Ftextures.lovelystock.com%252Ftexture%252Fcontainer%252F%3B5184%3B3310
+
+2) https://www.google.is/search?q=container+texture&espv=2&biw=1920&bih=955&tbm=isch&imgil=VfjMgTHc4PRJUM%253A%253BF2XO03Tt2D50ZM%253Bhttp%25253A%25252F%25252Ftextures.lovelystock.com%25252Ftexture%25252Fcontainer%25252F&source=iu&pf=m&fir=VfjMgTHc4PRJUM%253A%252CF2XO03Tt2D50ZM%252C_&usg=__n0wwSnNp8Z90_N_XrWcxHA7s-ZE%3D&ved=0CCUQyjc&ei=yHHVVN2kPI3mas_QgtAO#imgdii=_&imgrc=KYnDcTmpTbmf6M%253A%3BkK5l-hxScxObFM%3Bhttp%253A%252F%252F14textures.com%252Fwp-content%252Fuploads%252F2014%252F05%252FShort-Shipping-COntainer.jpg%3Bhttp%253A%252F%252F14textures.com%252Fmetal-shipping-container-texture%252F%3B4180%3B1652
+
+3) http://4.bp.blogspot.com/-0anLZOSSH_A/UrZRNCODuvI/AAAAAAAAAGw/jg7m01DUWQc/s1600/AS2_container_01.jpg
+
+4) https://www.google.is/search?q=container+texture&espv=2&biw=1920&bih=955&tbm=isch&imgil=VfjMgTHc4PRJUM%253A%253BF2XO03Tt2D50ZM%253Bhttp%25253A%25252F%25252Ftextures.lovelystock.com%25252Ftexture%25252Fcontainer%25252F&source=iu&pf=m&fir=VfjMgTHc4PRJUM%253A%252CF2XO03Tt2D50ZM%252C_&usg=__n0wwSnNp8Z90_N_XrWcxHA7s-ZE%3D&ved=0CCUQyjc&ei=yHHVVN2kPI3mas_QgtAO#q=container+texture&tbm=isch&tbs=isz:l&imgdii=_&imgrc=2hUqUiVOrEp4QM%253A%3B510qo1vNsfsmyM%3Bhttp%253A%252F%252Fopengameart.org%252Fsites%252Fdefault%252Ffiles%252Fcontainer_seabee.png%3Bhttp%253A%252F%252Fopengameart.org%252Fcontent%252Fus-navy-seabee-equipment-container%3B1474%3B595
+
+Wall Textures:
+
+
+
+=============================================
