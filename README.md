@@ -1,6 +1,7 @@
 # Unreal Engine 4
 
 #####Rules:
+- DO NOT FORGET TO BUILD THE PROJECT EVERYTIME YOU PULL FROM GIT!!! OTHERWISE THE UE4 WILL CRASH OR START MISBEHAVING!!!!!
 - The referance images (for map design) can be found inside Plans folder
 - DO NOT forrget to reference everything regarding the project! All referances should be stored appropriately in Resources.txt file
 - ALL downloaded material should be stored in Downloads folder before importing it into UE4 (for backup)
