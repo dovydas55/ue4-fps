@@ -10,9 +10,9 @@
 - git status
 - git add fileName (also -A -U)
 - git commit -m "message goes here"
-- git reset --soft HEAD~1 	           <<<this will undo your last commit
-- git reset --hard	                   <<<also hard reset, undo all of your changes
-- git push -f origin HEAD^:master      <<<this command will delete last "push" that was pushed onto github!!
+- git reset --soft HEAD~1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<<this will undo your last commit
+- git reset --hard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <<<also hard reset, undo all of your changes
+- git push -f origin HEAD^:master &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <<<this command will delete last "push" that was pushed onto github!!
 
 
 #####Deadline: 
