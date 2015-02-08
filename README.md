@@ -7,10 +7,6 @@
 - ALL downloaded material should be stored in Downloads folder before importing it into UE4 (for backup)
 - .gitignore file exludes all of the trash, therefore do not be afraid to commit often :D 
 
-#####Supported features:
-- Crouch -> left ctrl
-- Zoom in -> right mouse click
-
 #####Command line FTW:
 - git status
 - git add fileName (also -A -U)
