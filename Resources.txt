@@ -6,6 +6,8 @@ UE4 Geometry tutorial:
 Zoom tutorial:
 	https://www.youtube.com/watch?v=U88LWbVv9BY
 
+Bullet drop:
+	https://www.youtube.com/watch?v=Z7t3eyZsq34
 =============================================
 
 MODELS

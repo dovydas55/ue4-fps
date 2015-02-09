@@ -8,6 +8,11 @@
 - .gitignore file exludes all of the trash, therefore do not be afraid to commit often :D 
 
 #####Command line FTW:
+- Crouch => left ctrl
+- Zoom in => right click
+- bullet drop 
+
+#####Command line FTW:
 - git status
 - git add fileName (also -A -U)
 - git commit -m "message goes here"
