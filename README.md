@@ -27,3 +27,5 @@
 #####Assignment Description:
 - http://cadia.ru.is/wiki/public:t-gede-15-1:present
  
+#####Tutorials Referenced
+- Watched 1 through 14 of: https://www.youtube.com/watch?v=I8WBF4AyAX4
